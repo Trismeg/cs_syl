@@ -1,0 +1,220 @@
+\documentclass[12pt]{article}
+\textwidth=7in
+\textheight=9.5in
+\topmargin=-0.75 in
+\headheight=0in
+\headsep=.5in
+\hoffset  -.9in
+
+\usepackage{outline}
+
+\pagestyle{empty}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\begin{document}
+
+\begin{center}
+{\bf International Bachelorette \\ 
+Standard Level Computer Science \\ 
+\vspace{0.5cm}
+CS 471 \ Fall 2015 \ Year One
+}
+\end{center}
+
+\setlength{\unitlength}{1in}
+
+\begin{picture}(6,.1) 
+\put(0,0) {\line(1,0){6.25}}         
+\end{picture}
+
+ 
+
+\renewcommand{\arraystretch}{2}
+
+\vskip.25in
+\noindent\textbf{Professor:} Dr. Anthony Schultz, Academic Building, tony.schultz@ef.com
+\vskip.25in
+\noindent\textbf{Extra Hours:  Mondays 4-6 PM Room 119}  
+
+
+\vskip.25in
+\noindent\textbf{Textbook:}  \textit{Java: Software Solutions} 
+3rd edition, by John Lewis
+
+\vspace*{.15in}
+
+\noindent \textbf{Course Outline:} 
+
+\small
+
+\begin{outline}
+
+ \item {\bf Week One - September 14th-18th}
+  
+  \begin{outline}
+    \item {\bf Zero} \\
+      Welcome and personal introductions  \\
+      Review syllabus and structure of the course \\
+      Basics of bash directory navigation and commands\\
+      Basics of Git and \LaTeX \\
+      Open Source, intellectual property, Creative Commons, Free Software\\
+    \item {\bf Hello World } \\
+      Basic Python\\
+      My first program\\
+      Variables and assignments\\
+      Primitive data types (integers, floats, booleans) \\
+      Strings\\
+      Arithmetic expressions (+,-,*,/,\%)\\
+      Conditional statements (if, else)\\
+      
+  \end{outline}
+  
+   \item {\bf Week Two - September 21st - 25th }
+  
+  \begin{outline}
+    \item {\bf Boolean Algebra} \\
+      Equality, relational and boolean operators\\
+      Boolean arithmetic (and, or, not)\\
+      
+    \item {\bf Loops } \\
+    For loops\\
+    While loops\\
+    
+    \item {\bf Arrays } \\
+  \end{outline}
+  
+  \newpage
+  
+\item {\bf Week Three - September 28th - October 2nd }
+  
+ \begin{outline}
+    \item {\bf Basic Programming} \\
+      Program structure\\
+      Algorithm design\\
+      Nested loops\\
+      
+    \item {\bf Numbers} \\
+    Bases (binary, decimal, hexadecimal, char)\\
+    Bits and bytes\\
+    Base conversion \\
+  \end{outline}
+  
+  \item {\bf Week Four - October 5th - 9th}
+  
+  \begin{outline}
+    \item {\bf Libraries} \\
+      Importing libraries\\
+      Standard libraries\\
+      Mathematics libraries\\
+      
+      
+    \item {\bf  Useful Modules, Packages and Libraries} \\
+    Basic graphics\\
+   
+  \end{outline}
+  
+  \item {\bf Week Five - October 12th - 16th}
+  
+  \begin{outline}
+    \item {\bf Functions} \\
+      Writing functions\\
+        \end{outline}
+
+   
+  \item {\bf Week Six - October 19th - 23rd}
+  
+   \begin{outline}
+    \item {\bf Introduction to Java} \\
+      Basics of Java\\
+      Hard typed languages\\
+        
+    \item {\bf Objects I} \\
+      Introduction to objects\\
+      Object instances\\
+      Object methods
+      
+   
+  \end{outline}  
+  
+  \item {\bf Week Seven - October 26th - 30th}
+  
+  \begin{outline}
+    \item {\bf Objects 2} \\
+      Writing objects\\
+      Writing object methods\ 
+    
+  \end{outline}
+  
+  \newpage
+  
+  
+  \item {\bf Week Eight - November 2nd - 6th }
+  
+  \begin{outline}
+    \item {\bf Classes 1} \\
+      Basics of classes\\
+      Writing classes\\
+      Constructors\\
+      Interfaces\\
+      
+   
+  \end{outline}
+  
+
+  
+  \item {\bf Week Nine - November 9th - 13th }
+  
+  \begin{outline}
+    \item {\bf Classes 2} \\
+      Subclasses\\
+      Inheritance\\
+      Super reference\\
+      Polymorphism\\
+      
+  \end{outline}
+  
+  \item {\bf Week Ten - November 16th and 20th }
+  
+  \begin{outline}
+    \item {\bf Graphical User Interfaces} \\
+    Basic GUI\\
+    
+    
+    
+    \item {\bf Input and Output} \\
+    Keyboard events\\
+    Text file input\\
+    Text file output\\
+  \end{outline}
+  
+  \item {\bf Week Eleven - November 23rd - 25th}
+  
+  \begin{outline}
+    \item {\bf Review} \\
+     
+  \end{outline}
+  
+ 
+\end{outline}
+
+
+
+\vspace*{.15in}
+\normalsize
+\noindent\textbf{GitHub Work Portfolio:}  This course will require you to write code frequently.  To get credit all your code projects must be uploaded to GitHub using the git command line.  This will constitute 20\% of your grade.
+
+
+\vskip.25in
+\noindent \textbf{Homework:} There will be homework in this course.  Homework will be completed and kept in a notebook or binder.  This will constitute 20\% of your grade.
+
+\vskip.25in
+\noindent\textbf{Papers}: There will be two papers in this class.  Papers will be written in \LaTeX.  They make up 20\% of your grade.
+
+\vskip.25in
+\noindent\textbf{In-Class Assessments}: In-class assessments throughout the semester will make up 20\% of your grade.
+
+\vskip.25in
+\noindent\textbf{Final}: The final will have an in-class and take-home portion.  It will make up 20\% of your grade.
+
+
+\end{document}
