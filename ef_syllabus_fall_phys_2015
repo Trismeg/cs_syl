@@ -1,0 +1,216 @@
+\documentclass[12pt]{article}
+\textwidth=7in
+\textheight=9.5in
+\topmargin=-0.75 in
+\headheight=0in
+\headsep=.5in
+\hoffset  -.9in
+
+\usepackage{outline}
+
+\pagestyle{empty}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\begin{document}
+
+\begin{center}
+{\bf International Baccalaureate \\ 
+Standard Level Physics\\ 
+\vspace{0.5cm}
+PHYS 442 \ Fall 2015 \ Year Two
+}
+\end{center}
+
+\setlength{\unitlength}{1in}
+
+\begin{picture}(6,.1) 
+\put(0,0) {\line(1,0){6.25}}         
+\end{picture}
+
+ 
+
+\renewcommand{\arraystretch}{2}
+
+\vskip.25in
+\noindent\textbf{Professor:} Dr. Anthony Schultz, Room 119, tony.schultz@ef.com
+\vskip.25in
+\noindent\textbf{Extra Hours:  Mondays 4-6 PM Room 119}  
+
+
+\vskip.25in
+\noindent\textbf{Textbook:}  \textit{IB Physics Course Companion} 
+2014, by David Homer
+
+\vspace*{.15in}
+
+\noindent \textbf{Course Outline:} 
+
+\small
+
+\begin{outline}
+
+ \item {\bf Week One - September 14th-18th}
+  
+  \begin{outline}
+    \item {\bf Circular Motion} \\
+      Angular Motion\\
+      Angular Velocity\\
+      Angular Acceleration\\
+      
+    \item {\bf Gravitation} \\
+      Universal Gravitation\\
+      Orbits\\
+      Kepler\\
+      Gravitational Potential \\
+      Escape Velocity\\
+     
+      
+  \end{outline}
+  
+   \item {\bf Week Two - September 21st - 25th }
+  
+  \begin{outline}
+    \item {\bf Electrostatics} \\
+    Charge\\
+    Conductors, Insulators and Semiconductors\\
+      Coulomb's Law\\
+      Electric Field\\
+      Gauss's Law\\
+      Electric Potential\\
+           
+  \end{outline} 
+ 
+  
+  \newpage
+  
+\item {\bf Week Three - September 28th - October 2nd }
+  
+ \begin{outline}
+    \item {\bf Electrodynamics} \\
+ Current\\
+ Resistance\\
+ Capacitance\\
+ Circuits\\
+ 
+  \end{outline}
+  
+  \item {\bf Week Four - October 5th - 9th}
+  
+  \begin{outline}
+    \item {\bf Magnetism} \\
+      Magnetic Field\\
+      Magnetic Force\\
+     
+   
+  \end{outline}
+  
+  \item {\bf Week Five - October 12th - 16th}
+  
+   \begin{outline}
+    \item {\bf Induction} \\
+      Motion of a conductor through a magnetic field\\	Magnetic flux\\	Electromotive force\\	Induced currents\\
+      
+      
+    \item {\bf Electromagnetic Waves} \\
+      Maxwell's equations\\	Changing fields in free space\\	Vector waves\\
+      Light and electromagnetic radiation\\
+      Speed of light\\
+        \end{outline}
+      
+  
+
+   
+  \item {\bf Week Six - October 19th - 23rd}
+  
+   \begin{outline}
+    \item {\bf Rotational Dynamics} \\
+      Torque\\	Moment of inertia\\	Equations of rotational motion for uniform angular acceleration\\	Newton’s second law applied to angular motion\\	Conservation of angular momentum\\
+        \end{outline}
+  
+  
+  
+  \item {\bf Week Seven - October 26th - 30th}
+  
+   \begin{outline}
+    \item {\bf Thermodynamics} \\
+    Kinetic Theory\\
+    Temperature\\
+    Internal Energy\\
+      The first law of thermodynamics\\	The second law of thermodynamics\\	Entropy\\         
+  \end{outline}  
+  
+ 
+  
+  \newpage
+  
+  
+  \item {\bf Week Eight - November 2nd - 6th }
+  
+   \begin{outline}
+    \item {\bf Thermodynamics} \\
+      Cyclic processes and pV diagrams\\	Isovolumetric, isobaric, isothermal and adiabatic processes\\	Carnot cycle\\	Thermal efficiency\\ 
+  \end{outline}
+  
+ 
+  \item {\bf Week Nine - November 9th - 13th }
+  
+  \begin{outline}
+    \item {\bf Radioactivity} \\
+         Radioactive decay\\	Fundamental forces and their properties\\	Alpha particles, beta particles and gamma rays\\	Half-life\\	Absorption characteristics of decay particles\\	Isotopes\\	Background radiation   \\      
+  \end{outline}
+  
+
+  
+  \item {\bf Week Ten - November 16th and 20th }
+  
+   \begin{outline}
+    \item {\bf Nuclear Reactions} \\
+     The unified atomic mass unit\\    Mass defect and nuclear binding energy\\ Nuclear fission and nuclear fusion\\
+             
+  \end{outline}
+ 
+  
+  \item {\bf Week Eleven - November 23rd - 25th}
+  
+  \begin{outline}
+    \item {\bf Review} \\  
+  \end{outline}
+  
+ \item {\bf Spring }
+    \begin{outline}
+    
+    
+    \item {\bf Energy Sources} \\
+    Specific energy and energy density of fuel sources\\	Sankey diagrams\\	Primary energy sources\\	Electricity as a secondary and versatile form of energy\\	Renewable and non-renewable energy sources\\
+  
+    \item {\bf Thermal Energy Transfer} \\  
+    Conduction, convection and thermal radiation\\ Black-body radiation\\Albedo and emissivity\\The solar constant\\The greenhouse effect\\ Energy balance in the Earth surface–atmosphere system\\
+    
+    \item {\bf Quantization} \\
+	Discrete angular momentum\\
+ 	Discrete energy and discrete energy levels \\	Transitions between energy levels\\
+	Plank Spectrum\\
+	Plank Constant\\ 
+ 
+    \item {\bf Particle Physics} \\
+    	Quarks, leptons and their antiparticles\\	Hadrons, baryons and mesons\\	The conservation laws of charge, baryon number, lepton number and strangeness\\	The nature and range of the strong nuclear force, weak nuclear force and electromagnetic force\\	Exchange particles\\	Feynman diagrams\\	Confinement\\	The Higgs boson\\
+  
+  \end{outline}
+  
+    \end{outline}
+ 
+
+\vspace*{.15in}
+\normalsize
+\noindent\textbf{Grading} The grading policy will be as follows:\\
+Unit exam and midterm 20\%\\
+Labs and activities 20\%\\
+Homework 30\%\\
+Quizzes 20\%\\
+Class participation 10\%\\ 
+The above will be weighted 80\% to the final exam's 20\%.
+
+
+
+
+\end{document}
